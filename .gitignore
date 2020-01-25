@@ -17,5 +17,6 @@
 *-blx.bib
 *.brf
 *.run.xml
-quantum_poly_factor.pdf
+main.pdf
 *tex.backup
+_minted-main/
